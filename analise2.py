@@ -1,4 +1,5 @@
 import numpy as np
+import pyodbc
 
 
 idades =  np.array([10,15,20,18])
